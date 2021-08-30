@@ -1,4 +1,4 @@
-# WGU-C969-Final  Performance Assessment for C969 (Software II) -- Built with Visual Studio Community Edition 
+# WGU-C969-Final  
 
 Performance Assessment for C969 (Software II) -- Built with Visual Studio Community Edition 
 
